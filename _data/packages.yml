@@ -1,0 +1,14 @@
+# Site navigation links
+
+- name: Coldbir
+  description: Column Database in R
+  url: http://swedishpensionsagency.github.io/Coldbir
+  github: swedishpensionsagency/Coldbir
+
+- name: rbooli
+  description: Access Booli API
+  github: reinholdsson/rbooli
+
+- name: sweSCB
+  description: An R package for accessing the web API of Statistics Sweden (a.k.a. SCB)
+  github: rOpenGov/sweSCB

@@ -1,0 +1,12 @@
+layout: post
+title: "Rmd blog post example"
+author: thomas_reinholdsson
+excerpt: "A ton of text to test readability."
+categories: blog
+tags: [r,test]
+image:
+  feature: Stockholm-Sweden1-768x1366.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+comments: false
+share: false

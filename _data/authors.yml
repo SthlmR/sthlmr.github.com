@@ -1,0 +1,34 @@
+# Authors
+
+rasmus_baath:
+  name: Rasmus Bååth
+  avatar: bio-photo-2.jpg
+
+max_gordon:
+  name: Max Gordon
+  avatar: bio-photo-2.jpg
+  groups: srug
+
+mikael_huss:
+  name: Mikael Huss
+  avatar: bio-photo-2.jpg
+
+mia_kling:
+  name: Mia Kling
+  avatar: bio-photo-2.jpg
+  groups: srug
+
+mans_magnusson:
+  name: Måns Magnusson
+  avatar: bio-photo-2.jpg
+  groups: srug
+
+thomas_reinholdsson:
+  name: Thomas Reinholdsson
+  email: reinholdsson@gmail.com
+  bio: "Data Analyst"
+  avatar: https://avatars1.githubusercontent.com/u/1571893?v=2&s=460
+  twitter: thorei
+  linkedin: thomasreinholdsson
+  github: reinholdsson
+  groups: srug

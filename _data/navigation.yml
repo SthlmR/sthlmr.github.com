@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Packages
+  url: /packages/
+
+- title: Articles
+  url: /articles/
+
+- title: Blog
+  url: /blog/
+
+- title: Join Meetup
+  url: http://www.meetup.com/StockholmR/
