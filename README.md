@@ -21,7 +21,7 @@ Either write the article/blog posts directly in markdown, or use rmarkdown and t
   - `navigation.yml`: navigation pages
   - `packages.yml`: list of packages
 - `_posts/`
-  - `article`: put new articles here, make sure the filename of the `.md`-file is `YYYY-MM-DD-article-title`.
+  - `article`: put new articles here, make sure the filename of the *.md*-file is *YYYY-MM-DD-article-title*.
   - `blog`: blog posts
 - `packages/index.md`: packages page
 - `about/index.md`: about page
