@@ -29,7 +29,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 {% endif %}
 {{ author.name }}<br>
 {% if author.groups contains 'srug' %}<i>Steering Committee</i>{% endif %}<br>
-{% if author.email %}<a class='fa fa-envelope' href='{{ author.github }}'></a>&nbsp;{% endif %}
+{% if author.email %}<a class='fa fa-envelope' href="mailto:{{ author.email }}" target="_top"></a>&nbsp;{% endif %}
 {% if author.linkedin %}<a class='fa fa-linkedin' href='https://www.linkedin.com/in/{{ author.linkedin }}'></a>&nbsp;{% endif %}
 {% if author.github %}<a class='fa fa-github-square' href='https://github.com/{{ author.github }}'></a>&nbsp;{% endif %}<br>
 </center>
